@@ -13,8 +13,8 @@ Welcome to my GitHub! I'm a dedicated Java developer with additional experience 
 
 ### 📈 GitHub Stats
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=your_username&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your_username&layout=compact&theme=radical)
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=DimaBelDev&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DimaBelDev&layout=compact&theme=radical)
 
 ### 📬 Connect with Me:
 
